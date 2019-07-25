@@ -22,3 +22,4 @@ crontab -e
 */1 * * * * /usr/local/bin/cf-ddns.sh >/dev/null 2>&1 
 
 保存退出
+
